@@ -1,6 +1,6 @@
 # Free LLM APIs Live 🤖⚡
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--23T06%3A18%3A26Z-brightgreen?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--23T06%3A20%3A37Z-brightgreen?style=flat-square)
 ![Free Models](https://img.shields.io/badge/Free%20Models-15-blue?style=flat-square)
 ![Providers Up](https://img.shields.io/badge/Providers%20Online-9%2F10-success?style=flat-square)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)
@@ -14,16 +14,16 @@
 
 | Health | Provider | HTTP | Latency | Auth | Notes |
 | --- | --- | ---: | ---: | --- | --- |
-| ✅ UP | [OpenRouter Free Models](https://openrouter.ai/models?max_price=0) | `200` | 96 ms | API Key (Free tier) | Multiple :free LLMs, generous rate limits |
-| ✅ UP | [Google AI Studio (Gemini)](https://ai.google.dev/) | `403` | 98 ms | API Key (Free tier) | Gemini Flash/Pro free tier |
-| ✅ UP | [Groq Cloud](https://console.groq.com/) | `401` | 123 ms | API Key (Free tier) | Ultra-fast LPU inference |
-| ✅ UP | [Cerebras Inference](https://cloud.cerebras.ai/) | `403` | 242 ms | API Key (Free tier) | High-speed Llama & Qwen inference |
-| ⚠️ DOWN | [GitHub Models](https://github.com/marketplace/models) | `0` | 61 ms | GitHub PAT | Free prototyping with GitHub account |
-| ✅ UP | [Mistral La Plateforme](https://console.mistral.ai/) | `401` | 248 ms | API Key (Experiment tier) | Free experiment tier with phone verification |
-| ✅ UP | [Hugging Face Inference](https://huggingface.co/docs/inference-providers) | `200` | 206 ms | HF Token | Serverless inference credits |
-| ✅ UP | [Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/) | `200` | 96 ms | Cloudflare API Token | 10,000 free neurons/day |
-| ✅ UP | [SambaNova Cloud](https://cloud.sambanova.ai/) | `200` | 149 ms | API Key (Free tier) | Fast open-weights inference |
-| ✅ UP | [NVIDIA NIM](https://build.nvidia.com/) | `200` | 9122 ms | API Key (Free credits) | Free developer inference credits |
+| ✅ UP | [OpenRouter Free Models](https://openrouter.ai/models?max_price=0) | `200` | 127 ms | API Key (Free tier) | Multiple :free LLMs, generous rate limits |
+| ✅ UP | [Google AI Studio (Gemini)](https://ai.google.dev/) | `403` | 122 ms | API Key (Free tier) | Gemini Flash/Pro free tier |
+| ✅ UP | [Groq Cloud](https://console.groq.com/) | `401` | 230 ms | API Key (Free tier) | Ultra-fast LPU inference |
+| ✅ UP | [Cerebras Inference](https://cloud.cerebras.ai/) | `403` | 101 ms | API Key (Free tier) | High-speed Llama & Qwen inference |
+| ⚠️ DOWN | [GitHub Models](https://github.com/marketplace/models) | `0` | 53 ms | GitHub PAT | Free prototyping with GitHub account |
+| ✅ UP | [Mistral La Plateforme](https://console.mistral.ai/) | `401` | 197 ms | API Key (Experiment tier) | Free experiment tier with phone verification |
+| ✅ UP | [Hugging Face Inference](https://huggingface.co/docs/inference-providers) | `200` | 114 ms | HF Token | Serverless inference credits |
+| ✅ UP | [Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/) | `200` | 101 ms | Cloudflare API Token | 10,000 free neurons/day |
+| ✅ UP | [SambaNova Cloud](https://cloud.sambanova.ai/) | `200` | 347 ms | API Key (Free tier) | Fast open-weights inference |
+| ✅ UP | [NVIDIA NIM](https://build.nvidia.com/) | `200` | 10161 ms | API Key (Free credits) | Free developer inference credits |
 
 ## Active Free LLM Models (15)
 
@@ -57,7 +57,7 @@
 
 ## More Live Trackers & Analytics by OneForAllHub
 
-- 🌐 [**All Trackers Hub**](https://oneforallhub.github.io/) · 📊 [**Live Traffic Analytics Panel**](https://oneforallhub.github.io/panel.html) · 👤 [**GitHub Profile**](https://github.com/OneForAllHub)
+- 🌐 [**All Trackers Hub**](https://oneforallhub.github.io/OneForAllHub/) · 📊 [**Live Traffic Analytics Panel**](https://oneforallhub.github.io/OneForAllHub/panel.html) · 👤 [**GitHub Profile**](https://github.com/OneForAllHub)
 
 - [LLM Pricing Tracker](https://github.com/OneForAllHub/llm-pricing-tracker) ([Live Dashboard](https://oneforallhub.github.io/llm-pricing-tracker/)) — Daily LLM API token pricing & context comparison
 - [Trending AI & MCP Radar](https://github.com/OneForAllHub/trending-ai-mcp-radar) ([Live Dashboard](https://oneforallhub.github.io/trending-ai-mcp-radar/)) — Daily fastest-growing AI Agents & MCP servers
