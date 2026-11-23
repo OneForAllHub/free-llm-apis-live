@@ -1,0 +1,141 @@
+{
+  "updated_at": "2026-11-23T06:16:03Z",
+  "count": 15,
+  "models": [
+    {
+      "id": "google/lyria-3-clip-preview",
+      "name": "Google: Lyria 3 Clip Preview",
+      "provider": "google",
+      "context_length": 1048576,
+      "modalities": "text, image",
+      "url": "https://openrouter.ai/google/lyria-3-clip-preview",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "google/lyria-3-pro-preview",
+      "name": "Google: Lyria 3 Pro Preview",
+      "provider": "google",
+      "context_length": 1048576,
+      "modalities": "text, image",
+      "url": "https://openrouter.ai/google/lyria-3-pro-preview",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "inclusionai/ling-3.2-flash:free",
+      "name": "inclusionAI: Ling 3.2 Flash (free)",
+      "provider": "inclusionai",
+      "context_length": 1048576,
+      "modalities": "text, image",
+      "url": "https://openrouter.ai/inclusionai/ling-3.2-flash:free",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "particle-ai/particle-1:free",
+      "name": "Particle AI: Particle-1 (free)",
+      "provider": "particle-ai",
+      "context_length": 1048576,
+      "modalities": "text, image",
+      "url": "https://openrouter.ai/particle-ai/particle-1:free",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "baidu/ernie-5.5-flash-preview:free",
+      "name": "Baidu: ERNIE-5.5-Flash-Preview (free)",
+      "provider": "baidu",
+      "context_length": 1024000,
+      "modalities": "text",
+      "url": "https://openrouter.ai/baidu/ernie-5.5-flash-preview:free",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "nvidia/nemotron-3-ultra-550b-a55b:free",
+      "name": "NVIDIA: Nemotron 3 Ultra (free)",
+      "provider": "nvidia",
+      "context_length": 1000000,
+      "modalities": "text",
+      "url": "https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b:free",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "nvidia/nemotron-3.5-lightning:free",
+      "name": "NVIDIA: Nemotron 3.5 Lightning (free)",
+      "provider": "nvidia",
+      "context_length": 1000000,
+      "modalities": "text",
+      "url": "https://openrouter.ai/nvidia/nemotron-3.5-lightning:free",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "nvidia/nemotron-3.5-super-vl:free",
+      "name": "NVIDIA: Nemotron 3.5 Super VL (free)",
+      "provider": "nvidia",
+      "context_length": 1000000,
+      "modalities": "text, image, video",
+      "url": "https://openrouter.ai/nvidia/nemotron-3.5-super-vl:free",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "dots-studio/dots-3-note-preview:free",
+      "name": "Dots Studio: Dots3-Note Preview (free)",
+      "provider": "dots-studio",
+      "context_length": 512000,
+      "modalities": "text, image",
+      "url": "https://openrouter.ai/dots-studio/dots-3-note-preview:free",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "google/gemma-4-26b-a4b-it:free",
+      "name": "Google: Gemma 4 26B A4B  (free)",
+      "provider": "google",
+      "context_length": 262144,
+      "modalities": "image, text, video",
+      "url": "https://openrouter.ai/google/gemma-4-26b-a4b-it:free",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "google/gemma-4-31b-it:free",
+      "name": "Google: Gemma 4 31B (free)",
+      "provider": "google",
+      "context_length": 262144,
+      "modalities": "image, text, video",
+      "url": "https://openrouter.ai/google/gemma-4-31b-it:free",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "liquid/lfm-3-1.7b:free",
+      "name": "LiquidAI: LFM3-1.7B (free)",
+      "provider": "liquid",
+      "context_length": 262144,
+      "modalities": "text",
+      "url": "https://openrouter.ai/liquid/lfm-3-1.7b:free",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "recursive/flint-v1.0:free",
+      "name": "Recursive: Flint (free)",
+      "provider": "recursive",
+      "context_length": 262144,
+      "modalities": "text",
+      "url": "https://openrouter.ai/recursive/flint-v1.0:free",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+      "name": "NVIDIA: Nemotron 3 Nano Omni (free)",
+      "provider": "nvidia",
+      "context_length": 256000,
+      "modalities": "text, audio, image, video",
+      "url": "https://openrouter.ai/nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "openrouter/free",
+      "name": "Free Models Router",
+      "provider": "openrouter",
+      "context_length": 200000,
+      "modalities": "text, image",
+      "url": "https://openrouter.ai/openrouter/free",
+      "status": "ACTIVE"
+    }
+  ]
+}
