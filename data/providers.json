@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T00:41:34Z",
+  "updated_at": "2026-11-24T06:52:26Z",
   "count": 10,
   "providers": [
     {
@@ -10,7 +10,7 @@
       "openai_compat": "Yes",
       "notes": "Multiple :free LLMs, generous rate limits",
       "http_status": 200,
-      "latency_ms": 67,
+      "latency_ms": 98,
       "health": "UP"
     },
     {
@@ -21,7 +21,7 @@
       "openai_compat": "Yes",
       "notes": "Gemini Flash/Pro free tier",
       "http_status": 403,
-      "latency_ms": 138,
+      "latency_ms": 98,
       "health": "UP"
     },
     {
@@ -32,7 +32,7 @@
       "openai_compat": "Yes",
       "notes": "Ultra-fast LPU inference",
       "http_status": 401,
-      "latency_ms": 168,
+      "latency_ms": 155,
       "health": "UP"
     },
     {
@@ -43,7 +43,7 @@
       "openai_compat": "Yes",
       "notes": "High-speed Llama & Qwen inference",
       "http_status": 403,
-      "latency_ms": 160,
+      "latency_ms": 111,
       "health": "UP"
     },
     {
@@ -54,7 +54,7 @@
       "openai_compat": "Yes",
       "notes": "Free prototyping with GitHub account",
       "http_status": 0,
-      "latency_ms": 47,
+      "latency_ms": 83,
       "health": "DOWN"
     },
     {
@@ -65,7 +65,7 @@
       "openai_compat": "Yes",
       "notes": "Free experiment tier with phone verification",
       "http_status": 401,
-      "latency_ms": 214,
+      "latency_ms": 216,
       "health": "UP"
     },
     {
@@ -76,7 +76,7 @@
       "openai_compat": "Yes",
       "notes": "Serverless inference credits",
       "http_status": 200,
-      "latency_ms": 127,
+      "latency_ms": 86,
       "health": "UP"
     },
     {
@@ -87,7 +87,7 @@
       "openai_compat": "Yes",
       "notes": "10,000 free neurons/day",
       "http_status": 200,
-      "latency_ms": 88,
+      "latency_ms": 112,
       "health": "UP"
     },
     {
@@ -98,7 +98,7 @@
       "openai_compat": "Yes",
       "notes": "Fast open-weights inference",
       "http_status": 200,
-      "latency_ms": 53,
+      "latency_ms": 230,
       "health": "UP"
     },
     {
@@ -109,7 +109,7 @@
       "openai_compat": "Yes",
       "notes": "Free developer inference credits",
       "http_status": 200,
-      "latency_ms": 10087,
+      "latency_ms": 8087,
       "health": "UP"
     }
   ]
