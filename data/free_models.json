@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-24T12:54:11Z",
-  "count": 15,
+  "updated_at": "2026-11-24T18:43:35Z",
+  "count": 14,
   "models": [
     {
       "id": "google/lyria-3-clip-preview",
@@ -72,15 +72,6 @@
       "context_length": 1000000,
       "modalities": "text, image, video",
       "url": "https://openrouter.ai/nvidia/nemotron-3.5-super-vl:free",
-      "status": "ACTIVE"
-    },
-    {
-      "id": "dots-studio/dots-3-note-preview:free",
-      "name": "Dots Studio: Dots3-Note Preview (free)",
-      "provider": "dots-studio",
-      "context_length": 512000,
-      "modalities": "text, image",
-      "url": "https://openrouter.ai/dots-studio/dots-3-note-preview:free",
       "status": "ACTIVE"
     },
     {

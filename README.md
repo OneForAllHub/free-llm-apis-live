@@ -1,7 +1,7 @@
 # Free LLM APIs Live 🤖⚡
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--24T12%3A54%3A11Z-brightgreen?style=flat-square)
-![Free Models](https://img.shields.io/badge/Free%20Models-15-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--24T18%3A43%3A35Z-brightgreen?style=flat-square)
+![Free Models](https://img.shields.io/badge/Free%20Models-14-blue?style=flat-square)
 ![Providers Up](https://img.shields.io/badge/Providers%20Online-9%2F10-success?style=flat-square)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)
 
@@ -14,18 +14,18 @@
 
 | Health | Provider | HTTP | Latency | Auth | Notes |
 | --- | --- | ---: | ---: | --- | --- |
-| ✅ UP | [OpenRouter Free Models](https://openrouter.ai/models?max_price=0) | `200` | 96 ms | API Key (Free tier) | Multiple :free LLMs, generous rate limits |
-| ✅ UP | [Google AI Studio (Gemini)](https://ai.google.dev/) | `403` | 66 ms | API Key (Free tier) | Gemini Flash/Pro free tier |
-| ✅ UP | [Groq Cloud](https://console.groq.com/) | `401` | 133 ms | API Key (Free tier) | Ultra-fast LPU inference |
-| ✅ UP | [Cerebras Inference](https://cloud.cerebras.ai/) | `403` | 141 ms | API Key (Free tier) | High-speed Llama & Qwen inference |
-| ⚠️ DOWN | [GitHub Models](https://github.com/marketplace/models) | `0` | 56 ms | GitHub PAT | Free prototyping with GitHub account |
-| ✅ UP | [Mistral La Plateforme](https://console.mistral.ai/) | `401` | 246 ms | API Key (Experiment tier) | Free experiment tier with phone verification |
-| ✅ UP | [Hugging Face Inference](https://huggingface.co/docs/inference-providers) | `200` | 109 ms | HF Token | Serverless inference credits |
-| ✅ UP | [Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/) | `200` | 92 ms | Cloudflare API Token | 10,000 free neurons/day |
-| ✅ UP | [SambaNova Cloud](https://cloud.sambanova.ai/) | `200` | 104 ms | API Key (Free tier) | Fast open-weights inference |
-| ✅ UP | [NVIDIA NIM](https://build.nvidia.com/) | `200` | 8307 ms | API Key (Free credits) | Free developer inference credits |
+| ✅ UP | [OpenRouter Free Models](https://openrouter.ai/models?max_price=0) | `200` | 119 ms | API Key (Free tier) | Multiple :free LLMs, generous rate limits |
+| ✅ UP | [Google AI Studio (Gemini)](https://ai.google.dev/) | `403` | 64 ms | API Key (Free tier) | Gemini Flash/Pro free tier |
+| ✅ UP | [Groq Cloud](https://console.groq.com/) | `401` | 167 ms | API Key (Free tier) | Ultra-fast LPU inference |
+| ✅ UP | [Cerebras Inference](https://cloud.cerebras.ai/) | `403` | 161 ms | API Key (Free tier) | High-speed Llama & Qwen inference |
+| ⚠️ DOWN | [GitHub Models](https://github.com/marketplace/models) | `0` | 47 ms | GitHub PAT | Free prototyping with GitHub account |
+| ✅ UP | [Mistral La Plateforme](https://console.mistral.ai/) | `401` | 299 ms | API Key (Experiment tier) | Free experiment tier with phone verification |
+| ✅ UP | [Hugging Face Inference](https://huggingface.co/docs/inference-providers) | `200` | 122 ms | HF Token | Serverless inference credits |
+| ✅ UP | [Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/) | `200` | 124 ms | Cloudflare API Token | 10,000 free neurons/day |
+| ✅ UP | [SambaNova Cloud](https://cloud.sambanova.ai/) | `200` | 103 ms | API Key (Free tier) | Fast open-weights inference |
+| ✅ UP | [NVIDIA NIM](https://build.nvidia.com/) | `200` | 10392 ms | API Key (Free credits) | Free developer inference credits |
 
-## Active Free LLM Models (15)
+## Active Free LLM Models (14)
 
 | Model ID | Name | Vendor | Context Window | Modalities |
 | --- | --- | --- | ---: | --- |
@@ -37,7 +37,6 @@
 | `nvidia/nemotron-3-ultra-550b-a55b:free` | [NVIDIA: Nemotron 3 Ultra (free)](https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b:free) | `nvidia` | 1,000,000 | text |
 | `nvidia/nemotron-3.5-lightning:free` | [NVIDIA: Nemotron 3.5 Lightning (free)](https://openrouter.ai/nvidia/nemotron-3.5-lightning:free) | `nvidia` | 1,000,000 | text |
 | `nvidia/nemotron-3.5-super-vl:free` | [NVIDIA: Nemotron 3.5 Super VL (free)](https://openrouter.ai/nvidia/nemotron-3.5-super-vl:free) | `nvidia` | 1,000,000 | text, image, video |
-| `dots-studio/dots-3-note-preview:free` | [Dots Studio: Dots3-Note Preview (free)](https://openrouter.ai/dots-studio/dots-3-note-preview:free) | `dots-studio` | 512,000 | text, image |
 | `google/gemma-4-26b-a4b-it:free` | [Google: Gemma 4 26B A4B  (free)](https://openrouter.ai/google/gemma-4-26b-a4b-it:free) | `google` | 262,144 | image, text, video |
 | `google/gemma-4-31b-it:free` | [Google: Gemma 4 31B (free)](https://openrouter.ai/google/gemma-4-31b-it:free) | `google` | 262,144 | image, text, video |
 | `liquid/lfm-3-1.7b:free` | [LiquidAI: LFM3-1.7B (free)](https://openrouter.ai/liquid/lfm-3-1.7b:free) | `liquid` | 262,144 | text |
@@ -49,11 +48,11 @@
 
 - [Free API Providers](https://oneforallhub.github.io/free-llm-apis-live/pages/free-llm-providers.html)
 - [baidu Free](https://oneforallhub.github.io/free-llm-apis-live/pages/baidu-free-models.html)
-- [dots-studio Free](https://oneforallhub.github.io/free-llm-apis-live/pages/dots-studio-free-models.html)
 - [google Free](https://oneforallhub.github.io/free-llm-apis-live/pages/google-free-models.html)
 - [inclusionai Free](https://oneforallhub.github.io/free-llm-apis-live/pages/inclusionai-free-models.html)
 - [liquid Free](https://oneforallhub.github.io/free-llm-apis-live/pages/liquid-free-models.html)
 - [nvidia Free](https://oneforallhub.github.io/free-llm-apis-live/pages/nvidia-free-models.html)
+- [openrouter Free](https://oneforallhub.github.io/free-llm-apis-live/pages/openrouter-free-models.html)
 
 ## More Live Trackers & Analytics by OneForAllHub
 

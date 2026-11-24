@@ -7,7 +7,6 @@ baidu/ernie-5.5-flash-preview:free,Baidu: ERNIE-5.5-Flash-Preview (free),baidu,1
 nvidia/nemotron-3-ultra-550b-a55b:free,NVIDIA: Nemotron 3 Ultra (free),nvidia,1000000,text,https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b:free,ACTIVE
 nvidia/nemotron-3.5-lightning:free,NVIDIA: Nemotron 3.5 Lightning (free),nvidia,1000000,text,https://openrouter.ai/nvidia/nemotron-3.5-lightning:free,ACTIVE
 nvidia/nemotron-3.5-super-vl:free,NVIDIA: Nemotron 3.5 Super VL (free),nvidia,1000000,"text, image, video",https://openrouter.ai/nvidia/nemotron-3.5-super-vl:free,ACTIVE
-dots-studio/dots-3-note-preview:free,Dots Studio: Dots3-Note Preview (free),dots-studio,512000,"text, image",https://openrouter.ai/dots-studio/dots-3-note-preview:free,ACTIVE
 google/gemma-4-26b-a4b-it:free,Google: Gemma 4 26B A4B  (free),google,262144,"image, text, video",https://openrouter.ai/google/gemma-4-26b-a4b-it:free,ACTIVE
 google/gemma-4-31b-it:free,Google: Gemma 4 31B (free),google,262144,"image, text, video",https://openrouter.ai/google/gemma-4-31b-it:free,ACTIVE
 liquid/lfm-3-1.7b:free,LiquidAI: LFM3-1.7B (free),liquid,262144,text,https://openrouter.ai/liquid/lfm-3-1.7b:free,ACTIVE

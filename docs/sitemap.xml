@@ -19,12 +19,6 @@
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://oneforallhub.github.io/free-llm-apis-live/pages/dots-studio-free-models.html</loc>
-    <lastmod>2026-11-24</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.85</priority>
-  </url>
-  <url>
     <loc>https://oneforallhub.github.io/free-llm-apis-live/pages/google-free-models.html</loc>
     <lastmod>2026-11-24</lastmod>
     <changefreq>daily</changefreq>
@@ -44,6 +38,12 @@
   </url>
   <url>
     <loc>https://oneforallhub.github.io/free-llm-apis-live/pages/nvidia-free-models.html</loc>
+    <lastmod>2026-11-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://oneforallhub.github.io/free-llm-apis-live/pages/openrouter-free-models.html</loc>
     <lastmod>2026-11-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
