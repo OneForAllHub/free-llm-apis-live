@@ -1,6 +1,6 @@
 # Free LLM APIs Live 🤖⚡
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--24T06%3A52%3A26Z-brightgreen?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--24T12%3A54%3A11Z-brightgreen?style=flat-square)
 ![Free Models](https://img.shields.io/badge/Free%20Models-15-blue?style=flat-square)
 ![Providers Up](https://img.shields.io/badge/Providers%20Online-9%2F10-success?style=flat-square)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)
@@ -14,16 +14,16 @@
 
 | Health | Provider | HTTP | Latency | Auth | Notes |
 | --- | --- | ---: | ---: | --- | --- |
-| ✅ UP | [OpenRouter Free Models](https://openrouter.ai/models?max_price=0) | `200` | 98 ms | API Key (Free tier) | Multiple :free LLMs, generous rate limits |
-| ✅ UP | [Google AI Studio (Gemini)](https://ai.google.dev/) | `403` | 98 ms | API Key (Free tier) | Gemini Flash/Pro free tier |
-| ✅ UP | [Groq Cloud](https://console.groq.com/) | `401` | 155 ms | API Key (Free tier) | Ultra-fast LPU inference |
-| ✅ UP | [Cerebras Inference](https://cloud.cerebras.ai/) | `403` | 111 ms | API Key (Free tier) | High-speed Llama & Qwen inference |
-| ⚠️ DOWN | [GitHub Models](https://github.com/marketplace/models) | `0` | 83 ms | GitHub PAT | Free prototyping with GitHub account |
-| ✅ UP | [Mistral La Plateforme](https://console.mistral.ai/) | `401` | 216 ms | API Key (Experiment tier) | Free experiment tier with phone verification |
-| ✅ UP | [Hugging Face Inference](https://huggingface.co/docs/inference-providers) | `200` | 86 ms | HF Token | Serverless inference credits |
-| ✅ UP | [Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/) | `200` | 112 ms | Cloudflare API Token | 10,000 free neurons/day |
-| ✅ UP | [SambaNova Cloud](https://cloud.sambanova.ai/) | `200` | 230 ms | API Key (Free tier) | Fast open-weights inference |
-| ✅ UP | [NVIDIA NIM](https://build.nvidia.com/) | `200` | 8087 ms | API Key (Free credits) | Free developer inference credits |
+| ✅ UP | [OpenRouter Free Models](https://openrouter.ai/models?max_price=0) | `200` | 96 ms | API Key (Free tier) | Multiple :free LLMs, generous rate limits |
+| ✅ UP | [Google AI Studio (Gemini)](https://ai.google.dev/) | `403` | 66 ms | API Key (Free tier) | Gemini Flash/Pro free tier |
+| ✅ UP | [Groq Cloud](https://console.groq.com/) | `401` | 133 ms | API Key (Free tier) | Ultra-fast LPU inference |
+| ✅ UP | [Cerebras Inference](https://cloud.cerebras.ai/) | `403` | 141 ms | API Key (Free tier) | High-speed Llama & Qwen inference |
+| ⚠️ DOWN | [GitHub Models](https://github.com/marketplace/models) | `0` | 56 ms | GitHub PAT | Free prototyping with GitHub account |
+| ✅ UP | [Mistral La Plateforme](https://console.mistral.ai/) | `401` | 246 ms | API Key (Experiment tier) | Free experiment tier with phone verification |
+| ✅ UP | [Hugging Face Inference](https://huggingface.co/docs/inference-providers) | `200` | 109 ms | HF Token | Serverless inference credits |
+| ✅ UP | [Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/) | `200` | 92 ms | Cloudflare API Token | 10,000 free neurons/day |
+| ✅ UP | [SambaNova Cloud](https://cloud.sambanova.ai/) | `200` | 104 ms | API Key (Free tier) | Fast open-weights inference |
+| ✅ UP | [NVIDIA NIM](https://build.nvidia.com/) | `200` | 8307 ms | API Key (Free credits) | Free developer inference credits |
 
 ## Active Free LLM Models (15)
 
