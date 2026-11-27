@@ -1,7 +1,6 @@
 id,name,provider,context_length,modalities,url,status
 google/lyria-3-clip-preview,Google: Lyria 3 Clip Preview,google,1048576,"text, image",https://openrouter.ai/google/lyria-3-clip-preview,ACTIVE
 google/lyria-3-pro-preview,Google: Lyria 3 Pro Preview,google,1048576,"text, image",https://openrouter.ai/google/lyria-3-pro-preview,ACTIVE
-inclusionai/ling-3.2-flash:free,inclusionAI: Ling 3.2 Flash (free),inclusionai,1048576,"text, image",https://openrouter.ai/inclusionai/ling-3.2-flash:free,ACTIVE
 particle-ai/particle-1:free,Particle AI: Particle-1 (free),particle-ai,1048576,"text, image",https://openrouter.ai/particle-ai/particle-1:free,ACTIVE
 baidu/ernie-5.5-flash-preview:free,Baidu: ERNIE-5.5-Flash-Preview (free),baidu,1024000,text,https://openrouter.ai/baidu/ernie-5.5-flash-preview:free,ACTIVE
 nvidia/nemotron-3-ultra-550b-a55b:free,NVIDIA: Nemotron 3 Ultra (free),nvidia,1000000,text,https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b:free,ACTIVE

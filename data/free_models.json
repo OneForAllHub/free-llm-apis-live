@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-27T06:56:48Z",
-  "count": 14,
+  "updated_at": "2026-11-27T12:52:54Z",
+  "count": 13,
   "models": [
     {
       "id": "google/lyria-3-clip-preview",
@@ -18,15 +18,6 @@
       "context_length": 1048576,
       "modalities": "text, image",
       "url": "https://openrouter.ai/google/lyria-3-pro-preview",
-      "status": "ACTIVE"
-    },
-    {
-      "id": "inclusionai/ling-3.2-flash:free",
-      "name": "inclusionAI: Ling 3.2 Flash (free)",
-      "provider": "inclusionai",
-      "context_length": 1048576,
-      "modalities": "text, image",
-      "url": "https://openrouter.ai/inclusionai/ling-3.2-flash:free",
       "status": "ACTIVE"
     },
     {
