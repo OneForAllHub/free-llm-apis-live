@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T00:46:24Z",
+  "updated_at": "2026-11-28T06:51:40Z",
   "count": 10,
   "providers": [
     {
@@ -10,7 +10,7 @@
       "openai_compat": "Yes",
       "notes": "Multiple :free LLMs, generous rate limits",
       "http_status": 200,
-      "latency_ms": 60,
+      "latency_ms": 96,
       "health": "UP"
     },
     {
@@ -32,7 +32,7 @@
       "openai_compat": "Yes",
       "notes": "Ultra-fast LPU inference",
       "http_status": 401,
-      "latency_ms": 164,
+      "latency_ms": 142,
       "health": "UP"
     },
     {
@@ -43,7 +43,7 @@
       "openai_compat": "Yes",
       "notes": "High-speed Llama & Qwen inference",
       "http_status": 403,
-      "latency_ms": 134,
+      "latency_ms": 381,
       "health": "UP"
     },
     {
@@ -54,7 +54,7 @@
       "openai_compat": "Yes",
       "notes": "Free prototyping with GitHub account",
       "http_status": 0,
-      "latency_ms": 37,
+      "latency_ms": 80,
       "health": "DOWN"
     },
     {
@@ -65,7 +65,7 @@
       "openai_compat": "Yes",
       "notes": "Free experiment tier with phone verification",
       "http_status": 401,
-      "latency_ms": 175,
+      "latency_ms": 295,
       "health": "UP"
     },
     {
@@ -76,7 +76,7 @@
       "openai_compat": "Yes",
       "notes": "Serverless inference credits",
       "http_status": 200,
-      "latency_ms": 57,
+      "latency_ms": 193,
       "health": "UP"
     },
     {
@@ -87,7 +87,7 @@
       "openai_compat": "Yes",
       "notes": "10,000 free neurons/day",
       "http_status": 200,
-      "latency_ms": 48,
+      "latency_ms": 105,
       "health": "UP"
     },
     {
@@ -98,7 +98,7 @@
       "openai_compat": "Yes",
       "notes": "Fast open-weights inference",
       "http_status": 200,
-      "latency_ms": 8981,
+      "latency_ms": 137,
       "health": "UP"
     },
     {
@@ -109,7 +109,7 @@
       "openai_compat": "Yes",
       "notes": "Free developer inference credits",
       "http_status": 200,
-      "latency_ms": 8153,
+      "latency_ms": 10177,
       "health": "UP"
     }
   ]
